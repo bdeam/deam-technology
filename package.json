@@ -1,20 +1,20 @@
 {
   "name": "deam-technology",
-  "hompage": "https://bdeam.github.io/deam-technology",
   "version": "0.1.0",
   "private": true,
+  "hompage": "https://bdeam.github.io/deam-technology",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
   },
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",    
+  "scripts": {   
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
