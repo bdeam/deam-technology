@@ -1,0 +1,15 @@
+p {
+    margin: 0;
+    padding-top: 10px;
+}
+.row {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .column {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+  }
