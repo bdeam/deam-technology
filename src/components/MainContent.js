@@ -7,7 +7,6 @@ return (
         <div className="ui center aligned raised very padded text container segment">
             <center><h2 className="ui header">Bradley Deam</h2></center>
             <p>I'm a noob trying to figure out how to build web applications</p>
-            <center>
                 <div className="row">
                     <div className="column">
                         <a href='https://github.com/bdeam' target="_blank" rel="noopener noreferrer">
@@ -20,7 +19,6 @@ return (
                         </a>                
                     </div>     
                 </div>
-            </center>
         </div>    
     </div>
     )
