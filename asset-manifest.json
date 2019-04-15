@@ -10,5 +10,5 @@
   "precache-manifest.5251ef1502b282944a4580e992f1ef80.js": "/precache-manifest.5251ef1502b282944a4580e992f1ef80.js",
   "service-worker.js": "/service-worker.js",
   "static/css/main.e01d1f47.chunk.css.map": "/static/css/main.e01d1f47.chunk.css.map",
-  "static/media/github-sociocon.png": "/static/media/github-sociocon.0ba2aa20.png"
+  "static/media/github-sociocon.png": "static/media/github-sociocon.0ba2aa20.png"
 }
