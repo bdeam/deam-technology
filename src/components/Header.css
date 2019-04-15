@@ -1,9 +1,4 @@
-p {
-    margin: 0;
-    padding-top: 10px;
-}
-
-.row {
+.ui.stackable.menu {
     display: flex;
     justify-content: center;
     padding: 10px;

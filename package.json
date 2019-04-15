@@ -4,12 +4,11 @@
   "private": true,
   "hompage": "https://bdeam.github.io/deam-technology",
   "dependencies": {
-    "gh-pages": "^1.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
   },
-  "scripts": {   
+  "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -27,6 +26,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^1.2.0"
   }
 }
