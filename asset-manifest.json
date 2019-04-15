@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.e01d1f47.chunk.css",
-  "main.js": "/static/js/main.088e3c8c.chunk.js",
-  "main.js.map": "/static/js/main.088e3c8c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.3310f33a.chunk.js": "/static/js/2.3310f33a.chunk.js",
-  "static/js/2.3310f33a.chunk.js.map": "/static/js/2.3310f33a.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.5251ef1502b282944a4580e992f1ef80.js": "/precache-manifest.5251ef1502b282944a4580e992f1ef80.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.e01d1f47.chunk.css.map": "/static/css/main.e01d1f47.chunk.css.map",
-  "static/media/github-sociocon.png": "/static/media/github-sociocon.0ba2aa20.png" 
+  "main.css": "/deam-technology/static/css/main.e01d1f47.chunk.css",
+  "main.js": "/deam-technology/static/js/main.088e3c8c.chunk.js",
+  "main.js.map": "/deam-technology/static/js/main.088e3c8c.chunk.js.map",
+  "runtime~main.js": "/deam-technology/static/js/runtime~main.4f9e5d59.js",
+  "runtime~main.js.map": "/deam-technology/static/js/runtime~main.4f9e5d59.js.map",
+  "static/js/2.3310f33a.chunk.js": "/deam-technology/static/js/2.3310f33a.chunk.js",
+  "static/js/2.3310f33a.chunk.js.map": "/deam-technology/static/js/2.3310f33a.chunk.js.map",
+  "index.html": "/deam-technology/index.html",
+  "precache-manifest.6022e4cfad3ae0228c05eda2b94d1208.js": "/deam-technology/precache-manifest.6022e4cfad3ae0228c05eda2b94d1208.js",
+  "service-worker.js": "/deam-technology/service-worker.js",
+  "static/css/main.e01d1f47.chunk.css.map": "/deam-technology/static/css/main.e01d1f47.chunk.css.map",
+  "static/media/github-sociocon.png": "/deam-technology/static/media/github-sociocon.0ba2aa20.png"
 }
