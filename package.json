@@ -2,7 +2,7 @@
   "name": "deam-technology",
   "version": "0.1.0",
   "private": true,
-  "hompage": "https://bdeam.github.io/deam-technology",
+  "homepage": "https://bdeam.github.io/deam-technology",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
